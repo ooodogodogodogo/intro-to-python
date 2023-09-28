@@ -1,5 +1,12 @@
 # intro-to-python
 Codes, sources and assignments of one-to-one python course given by @ooodogodogodogo 
+# Useful websites
+
+[GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language)
+
+[W3Schools](https://www.w3schools.com/python/default.asp)
+
+[Kerteriz.net (Turkish)](https://derslik.kerteriz.net/python-dersleri/temel-dersler)
 
 # Sources and assignments
 
