@@ -1,6 +1,5 @@
 # intro-to-python
 Codes, sources and assignments of one-to-one python course given by @ooodogodogodogo 
-test1234
 # Useful websites
 
 [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language)
@@ -8,6 +7,7 @@ test1234
 [W3Schools](https://www.w3schools.com/python/default.asp)
 
 [Kerteriz.net (Turkish)](https://derslik.kerteriz.net/python-dersleri/temel-dersler)
+[Yazbel (Turkish)](https://python-istihza.yazbel.com/)
 
 # Sources and assignments
 
@@ -19,6 +19,7 @@ Course 2-3-5-11-18 of [Yakın Kampüs playlist](https://www.youtube.com/playlist
 Day 2 and 3 of [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
     
   </details>
+  
   <details>
 <summary>  Day 2  </summary>
     
@@ -27,3 +28,14 @@ Course 4 of [Yakın Kampüs playlist](https://www.youtube.com/playlist?list=PLWc
 Day 4 of [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
     
   </details>
+  <details>
+
+<summary>  Day 3  </summary>
+    
+Course 6 of [Yakın Kampüs playlist](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
+
+Day 5 of [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
+
+Optional reading about [ASCII Character Encoding (Turkish)](https://python-istihza.yazbel.com/karakter_kodlama.html)    
+  </details>
+  
