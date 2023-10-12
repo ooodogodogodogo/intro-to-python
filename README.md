@@ -59,3 +59,22 @@ Day 11 of [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python/tree
 Reading about [List Comprehension](https://www.freecodecamp.org/news/list-comprehension-in-python/)
 
   </details>
+  <details>
+
+   <summary>  Day 5  </summary>
+    
+Course 14 and 16 of [Yakın Kampüs playlist](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
+
+Day 9 and 10 of [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python/tree/master)
+
+
+
+  </details>
+  <details>
+
+   <summary>  Day 6  </summary>
+    Data analysis playlist [English] (https://youtube.com/playlist?list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&si=T3--3iuiT6AbYdCJ)
+    Pandas playlist [Turkish] (https://youtube.com/playlist?list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp&si=NRfzEb7Smx_dYgvA)
+
+
+  </details>
