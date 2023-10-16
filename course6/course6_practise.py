@@ -17,7 +17,7 @@ dict3={
 print(dict2['yas'])
 print(dict2.keys())
 print(dict3['lokasyon']['yasadıgı_sehir'])
-"""
+
 #30daysofpython 9. gün egzersizleri
 yas= int(input('yasinizi girin :'))
 if yas>=18:
@@ -40,6 +40,9 @@ if benim_yasim>senin_yasin:
     print('benim yasim senin yasından',fark,'yaş büyük')
 else:
     print('senin yasin benim yasimdan',fark,'kadar büyük')
-
+"""
+yas=int(input())
+if yas > 18:
+    print("ok")
 
   
