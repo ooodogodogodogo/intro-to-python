@@ -87,4 +87,7 @@ ortalama=toplam/len(ages)
 print(ortalama)
 range_ages=max_eleman-min_eleman
 print(range_ages)
-    
+it_companies=['facebook','google','amazon','microsoft','apple']
+it_companies[0] = it_companies[0].upper()
+print(it_companies)
+print(it_companies[-3:]) 
